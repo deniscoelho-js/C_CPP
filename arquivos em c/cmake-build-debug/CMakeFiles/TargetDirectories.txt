@@ -1,0 +1,3 @@
+/Users/user/Documents/C:C++/arquivos em c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/user/Documents/C:C++/arquivos em c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/user/Documents/C:C++/arquivos em c/cmake-build-debug/CMakeFiles/arquivos_em_c.dir
